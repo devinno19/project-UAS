@@ -1,0 +1,11 @@
+---
+title: KALENDER
+media_order: 'Screenshot 2024-05-31 214723.png'
+---
+
+## KALENDER AKADEMIK
+
+#### UNIVERSITAS AIRLANGGA
+##### FAKULTAS VOKASI
+
+![Screenshot%202024-05-31%20214723](Screenshot%202024-05-31%20214723.png "Screenshot%202024-05-31%20214723")
